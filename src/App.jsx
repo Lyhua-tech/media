@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import UserList from './components/UserList';
 
 const App = () => {
   return (
-    <div className='text-green-400 text-xl underline'>App</div>
+    <div className='container mx-auto'>
+      <UserList />
+    </div>
   )
 }
 
