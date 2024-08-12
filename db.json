@@ -20,10 +20,41 @@
       "title": "Unbranded Metal Shirt"
     },
     {
-      "id": "c277",
+      "id": "46ad",
+      "userId": "ab28",
+      "title": "Refined Plastic Bacon"
+    },
+    {
+      "id": "e424",
+      "userId": "ef9e",
+      "title": "Oriental Steel Chicken"
+    },
+    {
+      "id": "869e",
+      "userId": "ab28",
+      "title": "Practical Steel Chips"
+    },
+    {
+      "id": "9760",
       "userId": "0300",
-      "title": "Tasty Plastic Shirt"
+      "title": "Small Granite Tuna"
+    },
+    {
+      "id": "c509",
+      "userId": "0300",
+      "title": "Unbranded Soft Chips"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "5524",
+      "albumId": "9760",
+      "url": "https://loremflickr.com/150/150/abstract?lock=46843"
+    },
+    {
+      "id": "e81c",
+      "albumId": "9760",
+      "url": "https://loremflickr.com/150/150/abstract?lock=30382"
+    }
+  ]
 }

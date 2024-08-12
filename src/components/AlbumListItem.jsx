@@ -3,6 +3,7 @@ import Expanded from './Expanded'
 import Button from './Button'
 import { useRemoveAlbumMutation } from '../store';
 import { GoX } from "react-icons/go";
+import PhotoList from './PhotoList';
 
 const AlbumListItem = ({ album }) => {
     const [removeAlbum, results] = useRemoveAlbumMutation();
@@ -18,7 +19,7 @@ const AlbumListItem = ({ album }) => {
     </>
     return (
         <Expanded header={header}>
-
+            <PhotoList album={album} />
         </Expanded>
     )
 }
