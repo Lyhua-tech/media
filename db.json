@@ -5,14 +5,25 @@
       "name": "Florence Langosh"
     },
     {
-      "id": "6408",
-      "name": "Mr. Ashley Schulist"
+      "id": "ef9e",
+      "name": "Lance Strosin"
     },
     {
-      "id": "a1ff",
-      "name": "Tamara Windler"
+      "id": "ab28",
+      "name": "Dr. Hubert Weissnat"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "20ea",
+      "userId": "ef9e",
+      "title": "Unbranded Metal Shirt"
+    },
+    {
+      "id": "c277",
+      "userId": "0300",
+      "title": "Tasty Plastic Shirt"
+    }
+  ],
   "photos": []
 }
